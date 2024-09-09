@@ -18,6 +18,7 @@ This project focuses on designing and implementing a data warehouse for an e-com
 *   **Documentation**: Provide comprehensive documentation for setting up the environment, data ingestion, transformation processes, Hive schema design, and analytics.
     
 
+
 ### Key Components
 
 1.  **Data Sources**: Relational databases containing e-commerce sales data and customer demographics.
