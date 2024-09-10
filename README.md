@@ -2,7 +2,6 @@
 Design and implementation of a data warehouse for an mini e-commerce application using Hive, Spark, Sqoop, and HDFS. The project includes data ingestion, ETL processes, and Hive analytics on sales and customer demographics data, along with comprehensive documentation.
 
 ### E-commerce Data Warehouse Design and Analytics
-
 This project focuses on designing and implementing a data warehouse for an e-commerce application to perform analytics on sales and customer demographics data. The data warehouse is built using big data tools such as Hive, Spark, Sqoop, and HDFS. The project involves data ingestion, ETL (Extract, Transform, Load) processes, and performing Hive analytics to generate insights that can help in decision-making for the business.
 
 ### Objectives
